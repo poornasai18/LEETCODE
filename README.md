@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/poornasai18/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/poornasai18/LEETCODE/tree/master/0402-remove-k-digits) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/poornasai18/LEETCODE/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/poornasai18/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
