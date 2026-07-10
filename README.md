@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/poornasai18/LEETCODE/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/poornasai18/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/poornasai18/LEETCODE/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/poornasai18/LEETCODE/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/poornasai18/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/poornasai18/LEETCODE/tree/master/0069-sqrtx) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/poornasai18/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
