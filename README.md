@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/poornasai18/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/poornasai18/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 ## Simulation
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/poornasai18/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/poornasai18/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/poornasai18/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/poornasai18/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/poornasai18/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
@@ -167,4 +170,8 @@
 | [0110-balanced-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0112-path-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/poornasai18/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
