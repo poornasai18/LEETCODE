@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/poornasai18/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/poornasai18/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/poornasai18/LEETCODE/tree/master/0027-remove-element) |
 | [0239-sliding-window-maximum](https://github.com/poornasai18/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/poornasai18/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/poornasai18/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -85,6 +86,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/poornasai18/LEETCODE/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
