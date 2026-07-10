@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/poornasai18/LEETCODE/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/poornasai18/LEETCODE/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/poornasai18/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/poornasai18/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/poornasai18/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -50,6 +51,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/poornasai18/LEETCODE/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/poornasai18/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
