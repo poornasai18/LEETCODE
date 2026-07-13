@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poornasai18/LEETCODE/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/poornasai18/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/poornasai18/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/poornasai18/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -80,6 +81,7 @@
 | [0006-zigzag-conversion](https://github.com/poornasai18/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/poornasai18/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/poornasai18/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/poornasai18/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/poornasai18/LEETCODE/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/poornasai18/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/poornasai18/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/poornasai18/LEETCODE/tree/master/0069-sqrtx) |
