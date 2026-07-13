@@ -122,6 +122,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/poornasai18/LEETCODE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/poornasai18/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/poornasai18/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/poornasai18/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/poornasai18/LEETCODE/tree/master/0069-sqrtx) |
@@ -149,6 +150,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/poornasai18/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/poornasai18/LEETCODE/tree/master/0136-single-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
