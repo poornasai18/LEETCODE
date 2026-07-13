@@ -76,6 +76,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/poornasai18/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/poornasai18/LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/poornasai18/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
