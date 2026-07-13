@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/poornasai18/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/poornasai18/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/poornasai18/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -77,6 +78,7 @@
 | [0005-longest-palindromic-substring](https://github.com/poornasai18/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/poornasai18/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/poornasai18/LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/poornasai18/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -155,6 +157,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/poornasai18/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/poornasai18/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/poornasai18/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 ## String Matching
