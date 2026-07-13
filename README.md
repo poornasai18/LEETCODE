@@ -87,6 +87,7 @@
 | [0012-integer-to-roman](https://github.com/poornasai18/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/poornasai18/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/poornasai18/LEETCODE/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/poornasai18/LEETCODE/tree/master/0205-isomorphic-strings) |
