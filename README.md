@@ -109,6 +109,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/poornasai18/LEETCODE/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/poornasai18/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/poornasai18/LEETCODE/tree/master/0069-sqrtx) |
