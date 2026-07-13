@@ -188,4 +188,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/poornasai18/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/poornasai18/LEETCODE/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
