@@ -195,6 +195,7 @@
 | [0110-balanced-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [0110-balanced-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [0110-balanced-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
