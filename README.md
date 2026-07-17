@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/poornasai18/LEETCODE/tree/master/0066-plus-one) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/poornasai18/LEETCODE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -55,6 +56,7 @@
 | [0001-two-sum](https://github.com/poornasai18/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/poornasai18/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/poornasai18/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/poornasai18/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -81,6 +83,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/poornasai18/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/poornasai18/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -200,6 +203,7 @@
 | [0101-symmetric-tree](https://github.com/poornasai18/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0112-path-sum) |
@@ -242,6 +246,7 @@
 | [0101-symmetric-tree](https://github.com/poornasai18/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0112-path-sum) |
