@@ -37,6 +37,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/poornasai18/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/poornasai18/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0062-unique-paths](https://github.com/poornasai18/LEETCODE/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/poornasai18/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -143,6 +144,7 @@
 | [0007-reverse-integer](https://github.com/poornasai18/LEETCODE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/poornasai18/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/poornasai18/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/poornasai18/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/poornasai18/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/poornasai18/LEETCODE/tree/master/0069-sqrtx) |
@@ -302,6 +304,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/poornasai18/LEETCODE/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poornasai18/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
