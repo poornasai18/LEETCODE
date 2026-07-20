@@ -25,6 +25,7 @@
 | [0875-koko-eating-bananas](https://github.com/poornasai18/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/poornasai18/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/poornasai18/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/poornasai18/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/poornasai18/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poornasai18/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poornasai18/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/poornasai18/LEETCODE/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/poornasai18/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poornasai18/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -318,4 +320,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/poornasai18/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/poornasai18/LEETCODE/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
