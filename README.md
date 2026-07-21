@@ -138,6 +138,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/poornasai18/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -295,6 +296,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/poornasai18/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/poornasai18/LEETCODE/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/poornasai18/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -322,6 +324,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/poornasai18/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0112-path-sum) |
@@ -386,6 +389,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/poornasai18/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0112-path-sum) |
@@ -450,6 +454,7 @@
 | [0096-unique-binary-search-trees](https://github.com/poornasai18/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0099-recover-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/poornasai18/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/poornasai18/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
