@@ -25,6 +25,7 @@
 | [0064-minimum-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/poornasai18/LEETCODE/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/poornasai18/LEETCODE/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/poornasai18/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/poornasai18/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/poornasai18/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/poornasai18/LEETCODE/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/poornasai18/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/poornasai18/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -389,5 +391,6 @@
 | [0059-spiral-matrix-ii](https://github.com/poornasai18/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/poornasai18/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/poornasai18/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/poornasai18/LEETCODE/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
