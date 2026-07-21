@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/poornasai18/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/poornasai18/LEETCODE/tree/master/0071-simplify-path) |
 | [0402-remove-k-digits](https://github.com/poornasai18/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/poornasai18/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/poornasai18/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -140,6 +141,7 @@
 | [0049-group-anagrams](https://github.com/poornasai18/LEETCODE/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/poornasai18/LEETCODE/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/poornasai18/LEETCODE/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/poornasai18/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/poornasai18/LEETCODE/tree/master/0402-remove-k-digits) |
