@@ -41,6 +41,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/poornasai18/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/poornasai18/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/poornasai18/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/poornasai18/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/poornasai18/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/poornasai18/LEETCODE/tree/master/0063-unique-paths-ii) |
@@ -53,6 +54,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/poornasai18/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/poornasai18/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/poornasai18/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/poornasai18/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -116,6 +118,7 @@
 | [0012-integer-to-roman](https://github.com/poornasai18/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/poornasai18/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/poornasai18/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/poornasai18/LEETCODE/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
