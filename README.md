@@ -30,6 +30,7 @@
 | [0079-word-search](https://github.com/poornasai18/LEETCODE/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poornasai18/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/poornasai18/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/poornasai18/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@
 | [0063-unique-paths-ii](https://github.com/poornasai18/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/poornasai18/LEETCODE/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/poornasai18/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/poornasai18/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -73,6 +75,7 @@
 | [0032-longest-valid-parentheses](https://github.com/poornasai18/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/poornasai18/LEETCODE/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/poornasai18/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/poornasai18/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/poornasai18/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/poornasai18/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/poornasai18/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -82,6 +85,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/poornasai18/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/poornasai18/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/poornasai18/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/poornasai18/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 ## Hash Table
@@ -411,5 +415,6 @@
 | [0073-set-matrix-zeroes](https://github.com/poornasai18/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/poornasai18/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/poornasai18/LEETCODE/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/poornasai18/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/poornasai18/LEETCODE/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
