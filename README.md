@@ -146,6 +146,7 @@
 | [0068-text-justification](https://github.com/poornasai18/LEETCODE/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/poornasai18/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/poornasai18/LEETCODE/tree/master/1260-shift-2d-grid) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/poornasai18/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poornasai18/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -177,6 +178,7 @@
 | [0402-remove-k-digits](https://github.com/poornasai18/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/poornasai18/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/poornasai18/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/poornasai18/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/poornasai18/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1903-largest-odd-number-in-string](https://github.com/poornasai18/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/poornasai18/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -265,6 +267,7 @@
 | [0136-single-number](https://github.com/poornasai18/LEETCODE/tree/master/0136-single-number) |
 | [0868-binary-gap](https://github.com/poornasai18/LEETCODE/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/poornasai18/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/poornasai18/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/poornasai18/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
