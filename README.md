@@ -122,6 +122,7 @@
 | [0678-valid-parenthesis-string](https://github.com/poornasai18/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/poornasai18/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/poornasai18/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/poornasai18/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
@@ -304,6 +305,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/poornasai18/LEETCODE/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/poornasai18/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
 | ------- |
