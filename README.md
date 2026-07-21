@@ -26,6 +26,7 @@
 | [0066-plus-one](https://github.com/poornasai18/LEETCODE/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/poornasai18/LEETCODE/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/poornasai18/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/poornasai18/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +102,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/poornasai18/LEETCODE/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/poornasai18/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/poornasai18/LEETCODE/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -392,5 +394,6 @@
 | [0063-unique-paths-ii](https://github.com/poornasai18/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/poornasai18/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/poornasai18/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/poornasai18/LEETCODE/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
