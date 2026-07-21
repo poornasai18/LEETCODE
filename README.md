@@ -360,6 +360,7 @@
 | [0046-permutations](https://github.com/poornasai18/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/poornasai18/LEETCODE/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/poornasai18/LEETCODE/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/poornasai18/LEETCODE/tree/master/0077-combinations) |
 ## Number Theory
 |  |
 | ------- |
