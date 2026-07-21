@@ -27,6 +27,7 @@
 | [0068-text-justification](https://github.com/poornasai18/LEETCODE/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/poornasai18/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/poornasai18/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/poornasai18/LEETCODE/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -150,6 +151,7 @@
 | [0071-simplify-path](https://github.com/poornasai18/LEETCODE/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/poornasai18/LEETCODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/poornasai18/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/poornasai18/LEETCODE/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/poornasai18/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/poornasai18/LEETCODE/tree/master/0402-remove-k-digits) |
@@ -292,6 +294,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/poornasai18/LEETCODE/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/poornasai18/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/poornasai18/LEETCODE/tree/master/0101-symmetric-tree) |
@@ -361,6 +364,7 @@
 | [0047-permutations-ii](https://github.com/poornasai18/LEETCODE/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/poornasai18/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/poornasai18/LEETCODE/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/poornasai18/LEETCODE/tree/master/0079-word-search) |
 ## Number Theory
 |  |
 | ------- |
@@ -399,5 +403,6 @@
 | [0064-minimum-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/poornasai18/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/poornasai18/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/poornasai18/LEETCODE/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/poornasai18/LEETCODE/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
