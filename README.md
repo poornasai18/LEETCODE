@@ -106,6 +106,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/poornasai18/LEETCODE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/poornasai18/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/poornasai18/LEETCODE/tree/master/1260-shift-2d-grid) |
@@ -122,6 +123,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/poornasai18/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/poornasai18/LEETCODE/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/poornasai18/LEETCODE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/poornasai18/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -163,6 +165,7 @@
 | [0007-reverse-integer](https://github.com/poornasai18/LEETCODE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/poornasai18/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/poornasai18/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/poornasai18/LEETCODE/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/poornasai18/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/poornasai18/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
