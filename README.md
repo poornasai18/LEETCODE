@@ -181,6 +181,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/poornasai18/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/poornasai18/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/poornasai18/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/poornasai18/LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1903-largest-odd-number-in-string](https://github.com/poornasai18/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/poornasai18/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
