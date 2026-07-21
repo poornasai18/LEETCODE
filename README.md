@@ -39,6 +39,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/poornasai18/LEETCODE/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/poornasai18/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/poornasai18/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/poornasai18/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/poornasai18/LEETCODE/tree/master/0860-lemonade-change) |
@@ -74,6 +75,7 @@
 | [0097-interleaving-string](https://github.com/poornasai18/LEETCODE/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/poornasai18/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/poornasai18/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/poornasai18/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -194,6 +196,7 @@
 | [0045-jump-game-ii](https://github.com/poornasai18/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/poornasai18/LEETCODE/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/poornasai18/LEETCODE/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/poornasai18/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/poornasai18/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/poornasai18/LEETCODE/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/poornasai18/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -281,6 +284,7 @@
 | [0047-permutations-ii](https://github.com/poornasai18/LEETCODE/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/poornasai18/LEETCODE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/poornasai18/LEETCODE/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/poornasai18/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/poornasai18/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
