@@ -211,6 +211,7 @@
 | [0066-plus-one](https://github.com/poornasai18/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/poornasai18/LEETCODE/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/poornasai18/LEETCODE/tree/master/0089-gray-code) |
 | [1903-largest-odd-number-in-string](https://github.com/poornasai18/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poornasai18/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poornasai18/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -247,6 +248,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/poornasai18/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/poornasai18/LEETCODE/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/poornasai18/LEETCODE/tree/master/0136-single-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -380,6 +382,7 @@
 | [0052-n-queens-ii](https://github.com/poornasai18/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/poornasai18/LEETCODE/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/poornasai18/LEETCODE/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/poornasai18/LEETCODE/tree/master/0089-gray-code) |
 ## Number Theory
 |  |
 | ------- |
