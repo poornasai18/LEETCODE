@@ -67,6 +67,7 @@
 | [0087-scramble-string](https://github.com/poornasai18/LEETCODE/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/poornasai18/LEETCODE/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/poornasai18/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/poornasai18/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/poornasai18/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -216,6 +217,7 @@
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/poornasai18/LEETCODE/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/poornasai18/LEETCODE/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/poornasai18/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [1903-largest-odd-number-in-string](https://github.com/poornasai18/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poornasai18/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poornasai18/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/poornasai18/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/poornasai18/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/poornasai18/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/poornasai18/LEETCODE/tree/master/0101-symmetric-tree) |
@@ -350,6 +353,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/poornasai18/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/poornasai18/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/poornasai18/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/poornasai18/LEETCODE/tree/master/0101-symmetric-tree) |
@@ -416,6 +420,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/poornasai18/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/poornasai18/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/poornasai18/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/poornasai18/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
