@@ -56,6 +56,7 @@
 | [0062-unique-paths](https://github.com/poornasai18/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/poornasai18/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/poornasai18/LEETCODE/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/poornasai18/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -142,6 +143,7 @@
 | [0067-add-binary](https://github.com/poornasai18/LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/poornasai18/LEETCODE/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/poornasai18/LEETCODE/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/poornasai18/LEETCODE/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/poornasai18/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/poornasai18/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/poornasai18/LEETCODE/tree/master/0402-remove-k-digits) |
