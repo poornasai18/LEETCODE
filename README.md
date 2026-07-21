@@ -18,6 +18,7 @@
 | [0047-permutations-ii](https://github.com/poornasai18/LEETCODE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/poornasai18/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/poornasai18/LEETCODE/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/poornasai18/LEETCODE/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/poornasai18/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/poornasai18/LEETCODE/tree/master/0066-plus-one) |
@@ -221,6 +222,7 @@
 | [0016-3sum-closest](https://github.com/poornasai18/LEETCODE/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/poornasai18/LEETCODE/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/poornasai18/LEETCODE/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/poornasai18/LEETCODE/tree/master/0056-merge-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poornasai18/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
