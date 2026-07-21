@@ -48,6 +48,7 @@
 | [1260-shift-2d-grid](https://github.com/poornasai18/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/poornasai18/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/poornasai18/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/poornasai18/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poornasai18/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poornasai18/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/poornasai18/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -464,6 +465,7 @@
 | [0079-word-search](https://github.com/poornasai18/LEETCODE/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/poornasai18/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/poornasai18/LEETCODE/tree/master/1260-shift-2d-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/poornasai18/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Rolling Hash
 |  |
 | ------- |
