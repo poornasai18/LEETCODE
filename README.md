@@ -34,6 +34,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/poornasai18/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornasai18/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/poornasai18/LEETCODE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/poornasai18/LEETCODE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/poornasai18/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/poornasai18/LEETCODE/tree/master/0162-find-peak-element) |
@@ -182,6 +183,7 @@
 | [0011-container-with-most-water](https://github.com/poornasai18/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/poornasai18/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/poornasai18/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/poornasai18/LEETCODE/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/poornasai18/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/poornasai18/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/poornasai18/LEETCODE/tree/master/0860-lemonade-change) |
