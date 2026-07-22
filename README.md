@@ -45,6 +45,7 @@
 | [0860-lemonade-change](https://github.com/poornasai18/LEETCODE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/poornasai18/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/poornasai18/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/poornasai18/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/poornasai18/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/poornasai18/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/poornasai18/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -381,6 +382,7 @@
 | [0547-number-of-provinces](https://github.com/poornasai18/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/poornasai18/LEETCODE/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -479,6 +481,7 @@
 | [0074-search-a-2d-matrix](https://github.com/poornasai18/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/poornasai18/LEETCODE/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/poornasai18/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0994-rotting-oranges](https://github.com/poornasai18/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/poornasai18/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/poornasai18/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Rolling Hash
