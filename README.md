@@ -53,6 +53,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/poornasai18/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poornasai18/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poornasai18/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/poornasai18/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/poornasai18/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poornasai18/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -132,6 +133,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/poornasai18/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/poornasai18/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poornasai18/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/poornasai18/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/poornasai18/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -189,6 +191,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/poornasai18/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/poornasai18/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/poornasai18/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/poornasai18/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -492,4 +495,8 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/poornasai18/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/poornasai18/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
