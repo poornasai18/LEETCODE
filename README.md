@@ -82,6 +82,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/poornasai18/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/poornasai18/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/poornasai18/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/poornasai18/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/poornasai18/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
@@ -222,6 +223,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/poornasai18/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/poornasai18/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/poornasai18/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/poornasai18/LEETCODE/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/poornasai18/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/poornasai18/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -376,6 +379,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/poornasai18/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/poornasai18/LEETCODE/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/poornasai18/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/poornasai18/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -393,6 +397,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/poornasai18/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/poornasai18/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/poornasai18/LEETCODE/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/poornasai18/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/poornasai18/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/poornasai18/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -511,4 +516,8 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poornasai18/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/poornasai18/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
