@@ -60,6 +60,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/poornasai18/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/poornasai18/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3693-climbing-stairs-ii](https://github.com/poornasai18/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poornasai18/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -87,6 +88,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/poornasai18/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/poornasai18/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poornasai18/LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3693-climbing-stairs-ii](https://github.com/poornasai18/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
